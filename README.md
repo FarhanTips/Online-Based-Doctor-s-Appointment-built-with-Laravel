@@ -2,7 +2,7 @@
 
 Need to add seeder
 Use image URL instead of local files.s
-Functionality Overview
+## Functionality Overview
 Admin, doctor, patient authentication,
 Admin can add doctors, and departments to the system.
 The doctor can make an appointment time slot.
